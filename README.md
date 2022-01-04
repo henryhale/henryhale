@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @henryhale
 - 👀 I’m interested in science and technology. 
-- 🌱 I’m currently learning web design and development by myself. 
-- 💞️ I’m looking to collaborate on any project that requires Javascript. 
-- 📫 Contact me via Email: henryharrison8117@gmail.com
+- 🌱 I’m currently learning web design and development by myself.
 
 <!---
 henryhale/henryhale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
