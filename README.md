@@ -1,7 +1,8 @@
 # HENRY HALE
 
-![picture](https://user-images.githubusercontent.com/92443116/152640492-ac0ad5e7-cd46-4a1e-b53d-73c66cf00e31.jpg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/92443116/152640492-ac0ad5e7-cd46-4a1e-b53d-73c66cf00e31.jpg" />
+</p>
 - 👋 Hi, I’m @henryhale
 - 👀 I’m interested in science and technology. 
 - 🌱 I’m currently learning web design and development by myself.
